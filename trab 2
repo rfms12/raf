@@ -26,7 +26,7 @@
             .tres{
                 width:inherit;
                 height:30px;
-                background-color:rgb(181, 24, 220) ;
+                background-image: ("https://www.google.com/imgres?q=imagens%20do%20cruzeiro%20no%20mineirao&imgurl=https%3A%2F%2Fimgsapp.mg.superesportes.com.br%2Fapp%2Fnoticia_126420360808%2F2013%2F05%2F19%2F250943%2F20130519173411377833e.jpg&imgrefurl=https%3A%2F%2Fwww.mg.superesportes.com.br%2Fapp%2Fnoticias%2Ffutebol%2Fcruzeiro%2F2013%2F05%2F19%2Fnoticia_cruzeiro%2C250943%2Fgaleria-de-fotos-da-torcida-do-cruzeiro-no-mineirao-na-grande-final-do-estadual.shtml&docid=WV4EuCrVG3xtTM&tbnid=ZJd5vef7XlyljM&vet=12ahUKEwj00NX04ayMAxW_PbkGHZF8FvgQM3oFCIEBEAA..i&w=600&h=338&hcb=2&ved=2ahUKEwj00NX04ayMAxW_PbkGHZF8FvgQM3oFCIEBEAA") ;
             }
             .quatro{
                 width:inherit;
@@ -58,6 +58,10 @@
                 background-color:rgb(53, 159, 24) ;
                 display:inline-block;
                 float:left;
+                color:black;
+                font-size:13px;
+                font-family:arial;
+                font-weight:bold;
             }
             .um2{
                 width:5%;
@@ -65,6 +69,10 @@
                 background-color:rgb(43, 74, 34) ;
                 display:inline-block;
                 float:right;
+                color:black;
+                font-size:13px;
+                font-family:arial;
+                font-weight:bold;
             }
             .um3{
                 width:5%;
@@ -72,135 +80,208 @@
                 background-color:rgb(67, 24, 159) ;
                 display:inline-block;
                 float:right;
+                color:black;
+                font-size:13px;
+                font-family:arial;
+                font-weight:bold;
             }
             .dois1{
                 width:10%;
                 height:inherit;
-                background-color:rgb(11, 46, 2) ;
+                background-image:("");
                 display:inline-block;
                 float:left;
                 border-radius: 100%;
                 margin-left:40px;
+                color:black;
+                font-size:13px;
+                font-family:arial;
+                font-weight:bold;
             }
             .dois2{
                 width:10%;
                 height:inherit;
-                background-color:rgb(147, 230, 124) ;
+                background-image:("");
                 display:inline-block;
                 float:left;
                 border-radius: 100%;
                 margin-left:40px;
+                color:black;
+                font-size:13px;
+                font-family:arial;
+                font-weight:bold;
             }
             .dois3{
                 width:10%;
                 height:inherit;
-                background-color:rgb(91, 101, 6) ;
+                background-image:("");
                 display:inline-block;
                 float:left;
                 border-radius: 100%;
                 margin-left:40px;
+                color:black;
+                font-size:13px;
+                font-family:arial;
+                font-weight:bold;
             }
             .dois4{
                 width:10%;
                 height:inherit;
-                background-color:rgb(111, 47, 5) ;
+                background-image:("");
                 display:inline-block;
                 float:left;
                 border-radius: 100%;
                 margin-left:40px;
+                color:black;
+                font-size:13px;
+                font-family:arial;
+                font-weight:bold;
             }
             .dois5{
                 width:10%;
                 height:inherit;
-                background-color:rgb(69, 4, 82) ;
+                background-image:("");
                 display:inline-block;
                 float:left;
                 border-radius: 100%;
                 margin-left:40px;
+                color:black;
+                font-size:13px;
+                font-family:arial;
+                font-weight:bold;
             }
             .tres1{
-                width:;
+                width:30px;
                 height:inherit;
-                background-color:rgb(53, 159, 24) ;
+                background-color:rgb(0, 0, 0) ;
                 display:inline-block;
-                float:right;
+                float:left;
+                border-radius: 100%;
+                color:black;
+                font-size:13px;
+                font-family:arial;
+                font-weight:bold;
             }
             .tres2{
-                width:;
+                width:20%;
                 height:inherit;
                 background-color:rgb(53, 159, 24) ;
                 display:inline-block;
-                float:right;
+                float:left;
+                color:black;
+                font-size:13px;
+                font-family:arial;
+                font-weight:bold;
             }
             .tres3{
-                width:;
+                width:2%;
                 height:inherit;
                 background-color:rgb(53, 159, 24) ;
                 display:inline-block;
                 float:right;
+                color:black;
+                font-size:13px;
+                font-family:arial;
+                font-weight:bold;
             }
             .cinco1{
-                width:;
+                width:5%;
                 height:inherit;
-                background-color:rgb(53, 159, 24) ;
+                background-color:rgba(120, 63, 5, 0.681) ;
                 display:inline-block;
-                float:right;
+                float:left;
+                color:black;
+                font-size:13px;
+                font-family:arial;
+                font-weight:bold;
             }
             .cinco2{
-                width:;
+                width:5%;
                 height:inherit;
-                background-color:rgb(53, 159, 24) ;
+                background-color:rgb(103, 65, 5) ;
                 display:inline-block;
-                float:right;
+                float:left;
+                color:black;
+                font-size:13px;
+                font-family:arial;
+                font-weight:bold;
             }
             .cinco3{
-                width:;
+                width:5%;
                 height:inherit;
-                background-color:rgb(53, 159, 24) ;
+                background-color:rgb(184, 106, 9) ;
                 display:inline-block;
-                float:right;
+                float:left;
+                color:black;
+                font-size:13px;
+                font-family:arial;
+                font-weight:bold;
             }
             .cinco4{
-                width:;
+                width:5%;
                 height:inherit;
-                background-color:rgb(53, 159, 24) ;
+                background-color:rgb(121, 98, 8) ;
                 display:inline-block;
                 float:right;
+                color:black;
+                font-size:13px;
+                font-family:arial;
+                font-weight:bold;
             }
             .sete1{
-                width:;
+                width:20%;
                 height:inherit;
-                background-color:rgb(53, 159, 24) ;
+                background-color:rgb(88, 6, 140) ;
                 display:inline-block;
                 float:right;
+                color:black;
+                font-size:13px;
+                font-family:arial;
+                font-weight:bold;
             }
             .sete2{
-                width:;
+                width:20%;
                 height:inherit;
-                background-color:rgb(53, 159, 24) ;
+                background-color:rgb(129, 28, 63) ;
                 display:inline-block;
                 float:right;
+                color:black;
+                font-size:13px;
+                font-family:arial;
+                font-weight:bold;
             }
             .sete3{
-                width:;
+                width:20%;
                 height:inherit;
-                background-color:rgb(53, 159, 24) ;
+                background-color:rgb(104, 4, 105) ;
                 display:inline-block;
                 float:right;
+                color:black;
+                font-size:13px;
+                font-family:arial;
+                font-weight:bold;
             }
             .sete4{
                 width:;
                 height:inherit;
-                background-color:rgb(53, 159, 24) ;
+                background-color:rgb(79, 5, 109) ;
                 display:inline-block;
                 float:right;
+                color:black;
+                font-size:13px;
+                font-family:arial;
+                font-weight:bold;
             }
             .sete5{
-                width:;
+                width:20%;
                 height:inherit;
-                background-color:rgb(53, 159, 24) ;
+                background-color:rgb(75, 1, 35) ;
                 display:inline-block;
                 float:right;
+                color:black;
+                font-size:13px;
+                font-family:arial;
+                font-weight:bold;
             }
         </style>
     </head>
