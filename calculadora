@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="PT-BR">
 <head>
@@ -6,71 +7,44 @@
 <script src="jquery.js"></script>
 <script>
 
-//primeiro bloco
-btn_um.onclick = function(){alert("1")}
-btn_dois.onclick = function(){alert("2")}
-btn_tres.onclick = function(){}
-btn_adicao.onclick = function(){}
-btn_porcentagem.onclick = function(){}
-//segundo bloco
-btn_quatro.onclick = function(){}
-btn_cinco.onclick = function(){}
-btn_seis.onclick = function(){}
-btn_subtracao.onclick = function(){}
-btn_potencia.onclick = function(){}
-//terceiro bloco
-btn_sete.onclick = function(){}
-btn_oito.onclick = function(){}
-btn_nove.onclick = function(){}
-btn_divsao.onclick = function(){}
-btn_parentesesa.onclick = function(){}
-//quarto bloco
-btn_ponto.onclick = function(){}
-btn_zero.onclick = function(){}
-btn_virgula.onclick = function(){}
-btn_multiplicacao.onclick = function(){}
-btn_parentesesf.onclick = function(){}
-//quinto bloco
-btn_igual.onclick = function(){}
-btn_reiniciar.onclick = function(){}
 
 </script>
 </head>
 <body>
 <fieldset>
 <legend>CALCULADORA</legend>
-<input type="number" id="campo">
+<input type="number" id="visor">
 </br></br>
-<button id="btn_um">1</button>
-<button id="btn_dois">2</button>
-<button id="btn_tres">3</button>
-<button id="btn_adicao">+</button>
-<button id="btn_porcentagem">%</button>
+<button id="btn_um" onclick = "('')" class="botao">1</button>
+<button id="btn_dois"onclick = "('')" class="botao">2</button>
+<button id="btn_tres"onclick = "('')" class="botao">3</button>
+<button id="btn_adicao"onclick = "('')" class="botaoo">+</button>
+<button id="btn_porcentagem"onclick = "('')" class="botaoo">%</button>
 
 </br></br>
-<button id="btn_quatro">4</button>
-<button id="btn_cinco">5</button>
-<button id="btn_seis">6</button>
-<button id="btn_subtracao">-</button>
-<button id="btn_potencia">^</button>
+<button id="btn_quatro"onclick = "('')" class="botao">4</button>
+<button id="btn_cinco"onclick = "('')" class="botao">5</button>
+<button id="btn_seis"onclick = "('')" class="botao">6</button>
+<button id="btn_subtracao"onclick = "('')" class="botaoo">-</button>
+<button id="btn_potencia"onclick = "('')" class="botaoo">^</button>
 
 </br></br>
-<button id="btn_sete">7</button>
-<button id="btn_oito">8</button>
-<button id="btn_nove">9</button>
-<button id="btn_divisao">/</button>
-<button id="btn_pa">(</button>
+<button id="btn_sete"onclick = "('')" class="botao">7</button>
+<button id="btn_oito"onclick = "('')" class="botao">8</button>
+<button id="btn_nove"onclick = "('')" class="botao">9</button>
+<button id="btn_divisao"onclick = "('')" class="botaoo">/</button>
+<button id="btn_pa"onclick = "('')" class="botaoo">(</button>
 
 </br></br>
-<button id="btn_ponto">.</button>
-<button id="btn_zero">0</button>
-<button id="btn_virgula">,</button>
-<button id="btn_multiplicacao">x</button>
-<button id="btn_pf">)</button>
+<button id="btn_ponto"onclick = "('')" class="botaoo">.</button>
+<button id="btn_zero"onclick = "('')" class="botao">0</button>
+<button id="btn_virgula"onclick = "('')" class="botaoo">,</button>
+<button id="btn_multiplicacao"onclick = "('')" class="botaoo">x</button>
+<button id="btn_pf"onclick = "('')" class="botaoo">)</button>
 
 </br></br>
-<button id="btn_igual">=</button>
-<button id="btn_reiniciar">C</button>
+<button id="btn_igual"onclick = "('')" class="botaoo">=</button>
+<button id="btn_reiniciar"onclick = "('')" class="botaoo">C</button>
 </fieldset>
 </body>
 </html>
